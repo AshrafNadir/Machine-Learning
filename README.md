@@ -9,7 +9,7 @@
   - DOM-Document Object Model
   - Every components produce **Virtual DOM** which renders in website.
   - Components looks like *HTML* , actually *JSX*.
-# SETUP WITH 'CDN'
+# SETUP WITH 'CDN' plus
 - Head over to [reactjs.org](https://https://reactjs.org/docs/cdn-links.html)
 
 - *Core react library*
